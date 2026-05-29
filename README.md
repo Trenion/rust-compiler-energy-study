@@ -19,3 +19,5 @@ mandelbrot.rs: mandelbrot test code
 run_experiment.sh: script to test mandelbrot
 
 run_npb_all.sh: script to test all programs with a chosen class
+
+The developing evolution of Rust.pdf : Paper about this project
